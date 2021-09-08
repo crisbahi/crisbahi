@@ -1,10 +1,10 @@
 ### <Ola mundo!> Eu sou a Cris 🌹🐱‍👤😎
-- 🙌 O que aprendi até o momento: HTML, CSS, JavaScript, PHP, SQL.
+- 🙌 Desenvolvedora em construção -🚧🚧 HTML, CSS, JavaScript, PHP, SQL.
 - 🌱 Estou aprendendo atualmente o GRUD in PHP e GIT.
 - 🐱‍🐉 O meu próximo módulo será JAVA.
 - 🐱‍💻 Quero muito começar a estudar Phyton.
 - 😄 Pronomes ela/dela.
-- ⚡ Fun fact about me: Eu sou biologa e me interesso por ciência de dados e estatistica
+- ⚡ Fun fact about me: Eu sou biologa e me interesso por ciência de dados e desenvolvimento.
 - 🐱‍🚀 Hobbies: pesca amadora, fotografia, culinária.
 -->
 <div>
