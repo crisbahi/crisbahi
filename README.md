@@ -1,6 +1,6 @@
 ### <Ola mundo!> Eu sou a Cris 🌹🐱‍👤😎
 - 🙌 Desenvolvedora em construção -🚧🚧 HTML, CSS, JavaScript, PHP, SQL.
-- 🌱 Estou aprendendo atualmente o GRUD in PHP e GIT.
+- 🌱 Estou aprendendo atualmente o GRUD em PHP e GIT.
 - 🐱‍🐉 O meu próximo módulo será JAVA.
 - 🐱‍💻 Quero muito começar a estudar Phyton.
 - 😄 Pronomes ela/dela.
