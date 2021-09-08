@@ -1,5 +1,4 @@
 ### <Ola mundo!> Eu sou a Cris 🌹🐱‍👤😎
-- 🔭 Ainda não trabalho na área, estou à procura.
 - 🙌 O que aprendi até o momento: HTML, CSS, JavaScript, PHP, SQL.
 - 🌱 Estou aprendendo atualmente o GRUD in PHP e GIT.
 - 🐱‍🐉 O meu próximo módulo será JAVA.
@@ -19,7 +18,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
 </div>
-      ##
+  
+    🐱‍🚀🐱‍👤🐱‍🐉🐱‍🏍🐱‍👓☕🍫🧁 🐱‍💻
  
 <div> 
    <a href="https://instagram.com/cris_bahi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
